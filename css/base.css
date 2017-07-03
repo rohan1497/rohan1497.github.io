@@ -9,11 +9,11 @@
 }
 
 .background1{
-	background-color: #bdbdbd;
+	background-color: #EEEEEE;
 	height: 100vh;
 }
 .dropdm{
-	background-color: #01848F;
+	background-color: #0195a2;
 }
 .select{
 	padding: 10px;
@@ -23,4 +23,7 @@
 	margin-right: 10px;
 	margin-top: 5px;
 	margin-bottom: 5px;
+}
+.cd{
+	color: #0195a2;
 }
