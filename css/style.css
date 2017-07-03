@@ -1,0 +1,64 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav ul a,
+nav .brand-logo {
+  color:  #ffff;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: white;
+}
+
+.banner{
+  height: 100vh;
+  background-color: #bdbdbd;
+  /*margin-bottom: -60px;*/
+}
+.header{
+
+}
+.ban{
+
+}
+.mid{
+  background-color: #EFEBE8;
+}
+.first-block{
+/*height: 100vh;*/
+  background-color: white;
+}
+
+
+
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+  background-color: #016064;
+}

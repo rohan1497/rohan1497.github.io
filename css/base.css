@@ -1,0 +1,20 @@
+.side-circle {
+	max-height: 64px;
+	max-width: 64px;
+}
+
+.nav-back1 img{
+	height: 160px;
+	width: 300px;
+}
+
+.background1{
+	background-color: #bdbdbd;
+	height: 100vh;
+}
+.dropdm{
+	background-color: orange;
+}
+.select{
+	padding: 40px;
+}
