@@ -52,3 +52,10 @@ div.scrollmenu a:hover {
 	padding: 15px;
 	font-size:20px;	
 }
+.clogo img{
+	max-height: 40px;
+	max-height: inherit;
+}
+#logo-container{
+	max-height: 64px;
+}
